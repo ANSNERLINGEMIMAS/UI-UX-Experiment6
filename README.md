@@ -26,11 +26,14 @@ Step 6: Build Information Architecture (IA) Choose an app/site (e.g., Saveetha U
 
 ## Output:
 
-![Screenshot 2025-05-31 151408](https://github.com/user-attachments/assets/2fa3e3d0-4135-4892-8309-bf32b027e2c1)
+<img width="1320" height="773" alt="Screenshot 2025-11-05 085131" src="https://github.com/user-attachments/assets/d380600a-acfa-4087-80f6-6579d331c291" />
 
-![Screenshot 2025-05-31 163928](https://github.com/user-attachments/assets/01bfe187-fd45-41ca-8d55-66e527fbca10)
+<img width="1304" height="787" alt="Screenshot 2025-11-05 085159" src="https://github.com/user-attachments/assets/969e8f15-c7fc-4833-851c-c795462cc596" />
 
-![Screenshot 2025-06-01 090649](https://github.com/user-attachments/assets/54b8cb40-941e-406a-9a74-ac488979ecb7)
+<img width="1324" height="788" alt="Screenshot 2025-11-05 085300" src="https://github.com/user-attachments/assets/10b8a686-a032-4161-9a32-dc6e12dd0284" />
+
+
+
 
 
 ## Result:
